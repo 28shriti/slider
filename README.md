@@ -1,0 +1,2 @@
+# slider
+Dummy Vertical Slider
